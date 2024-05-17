@@ -1,1 +1,12 @@
-# YOLO-based-fast-waste-sorting-approach
+# YOLO-based-fast-waste-sorting-approach  
+![image](https://github.com/JesseLee62/img-storage/blob/master/YOLO-based-fast-waste-sorting-approach/1.jpg)   
+![image](https://github.com/JesseLee62/img-storage/blob/master/YOLO-based-fast-waste-sorting-approach/2.jpg)   
+![image](https://github.com/JesseLee62/img-storage/blob/master/YOLO-based-fast-waste-sorting-approach/3.jpg)   
+![image](https://github.com/JesseLee62/img-storage/blob/master/YOLO-based-fast-waste-sorting-approach/4.jpg)   
+![image](https://github.com/JesseLee62/img-storage/blob/master/YOLO-based-fast-waste-sorting-approach/5.jpg)   
+![image](https://github.com/JesseLee62/img-storage/blob/master/YOLO-based-fast-waste-sorting-approach/6.jpg)   
+![image](https://github.com/JesseLee62/img-storage/blob/master/YOLO-based-fast-waste-sorting-approach/7.jpg)   
+![image](https://github.com/JesseLee62/img-storage/blob/master/YOLO-based-fast-waste-sorting-approach/8.jpg)   
+![image](https://github.com/JesseLee62/img-storage/blob/master/YOLO-based-fast-waste-sorting-approach/9.jpg)   
+![image](https://github.com/JesseLee62/img-storage/blob/master/YOLO-based-fast-waste-sorting-approach/10.jpg)   
+![image](https://github.com/JesseLee62/img-storage/blob/master/YOLO-based-fast-waste-sorting-approach/11.jpg)     
